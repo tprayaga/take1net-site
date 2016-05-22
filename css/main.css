@@ -8202,6 +8202,10 @@ span.line-vertical {
     display: block;
     height: auto;
   }
+  .logo-wrapperNew > #logo {
+    vertical-align: middle;
+    height: auto;
+  }
   .variant-one #logo {
     height: 60px;
   }
