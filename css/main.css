@@ -2208,7 +2208,7 @@ input[type="submit"]:hover {
 }
 .header-wrapper.variant-one #logo {
   float: left;
-  padding-top: 8px;
+  /*padding-top: 8px;*/
 }
 .header-wrapper.variant-one .main-menu ul li ul {
   background: #63696e;
@@ -7907,8 +7907,8 @@ span.line-vertical {
     transition: 1.5s all ease-in-out;
     float: none;
     position: relative;
-    left: 50%;
-    margin-left: -61px;
+    /*left: 50%;*/
+    /*margin-left: -61px;*/
     text-align: left;
   }
   .header-wrapper.variant-one .close {
